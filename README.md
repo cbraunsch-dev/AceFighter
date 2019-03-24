@@ -6,7 +6,15 @@ This is a simple shooting game I developed back when I was just starting out. Th
 
 !['img'](https://github.com/cbraunsch-dev/AceFighter/blob/master/Screenshots/af_1.png)
 
-!['img'](https://github.com/cbraunsch-dev/AceFighter/blob/master/Screenshots/af_1.png)
+!['img'](https://github.com/cbraunsch-dev/AceFighter/blob/master/Screenshots/af_2.png)
+
+!['img'](https://github.com/cbraunsch-dev/AceFighter/blob/master/Screenshots/af_3.png)
+
+!['img'](https://github.com/cbraunsch-dev/AceFighter/blob/master/Screenshots/af_4.png)
+
+!['img'](https://github.com/cbraunsch-dev/AceFighter/blob/master/Screenshots/af_5.png)
+
+!['img'](https://github.com/cbraunsch-dev/AceFighter/blob/master/Screenshots/af_gif_1.gif)
 
 ## Running the project
 ### Running the game in Eclipse
