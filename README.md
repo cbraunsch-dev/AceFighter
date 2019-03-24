@@ -4,9 +4,9 @@ Developed between 2006-2010
 
 This is a simple shooting game I developed back when I was just starting out. The game is entirely written in java along with all of the development tools (Level and cutscene editor). No engine was used. The game uses its own very rudimentary engine.
 
-!['img'](https://github.com/cbraunsch-dev/AceFighter/tree/master/Screenshots/af_1.png)
+!['img'](https://github.com/cbraunsch-dev/AceFighter/blob/master/Screenshots/af_1.png)
 
-!['img'](https://github.com/cbraunsch-dev/AceFighter/tree/master/Screenshots/af_2.png)
+!['img'](https://github.com/cbraunsch-dev/AceFighter/blob/master/Screenshots/af_1.png)
 
 ## Running the project
 ### Running the game in Eclipse
